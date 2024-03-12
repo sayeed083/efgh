@@ -5,8 +5,4 @@
 ## ASC
 
 # Steps for sending modified things
-    git add .
-
-    git commit -m "Commit Name"
-
-    git push
+    git add . && git commit -m "Commit Name" && git push
